@@ -5,6 +5,13 @@ Fetches and displays a random gist using Github's API.
 
 (Really just a quick one-off webapp to play with Backbone, Marionette, RequireJS, and Sinatra.)
 
+
+Demo
+----
+
+http://gistroulette.herokuapp.com
+
+
 Installation
 ------------
 
